@@ -1,5 +1,4 @@
 
-![CPU with binary numbers and blueprint](Aspose.Words.6f7f8bd1-b0a5-4dc6-b4a1-25555a5c6060.002.jpeg)
 
 Dev-Ops Security & Compliance
 
